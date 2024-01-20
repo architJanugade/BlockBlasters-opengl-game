@@ -1,2 +1,19 @@
-﻿  particle_generator.cpp
-  Breakout.vcxproj -> C:\Users\janug\source\repos\Breakout\x64\Debug\Breakout.exe
+﻿  Game.cpp
+  GameObject.cpp
+  game_level.cpp
+C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\game_level.cpp(51,25): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\game_level.cpp(52,24): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\game_level.cpp(54,23): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+  ball_object.cpp
+  main.cpp
+C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\main.cpp(64,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  particle_generator.cpp
+  resource_manager.cpp
+  Shader.cpp
+  SpriteRenderer.cpp
+  Texture.cpp
+  Generating Code...
+C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\resource_manager.cpp(107): warning C4172: returning address of local variable or temporary: texture
+C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\resource_manager.cpp(88): warning C4172: returning address of local variable or temporary: shader
+  glad.c
+  Breakout.vcxproj -> C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\x64\Debug\Breakout.exe

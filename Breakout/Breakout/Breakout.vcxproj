@@ -71,8 +71,8 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <LibraryPath>C:\Users\janug\source\repos\Breakout\Breakout\lib;$(LibraryPath)</LibraryPath>
-    <IncludePath>C:\Users\janug\source\repos\Breakout\Breakout\include;$(IncludePath)</IncludePath>
+    <LibraryPath>C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\lib;$(LibraryPath)</LibraryPath>
+    <IncludePath>C:\Users\janug\Documents\GitHub\Breakout\BlockBlasters-opengl-game\Breakout\Breakout\include;$(IncludePath)</IncludePath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
