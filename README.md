@@ -1,7 +1,7 @@
 # BlockBlasters-opengl-game
  
 **Breakout Game Prototype**
-Welcome to the Breakout Game Prototype repository! This project showcases a simple yet engaging breakout-style game developed using OpenGL. It demonstrates good software design principles and follows an object-oriented approach. Below, we provide an overview of the core classes used in this project:
+Welcome to the Breakout Game Prototype repository! This project showcases a simple yet engaging breakout-style game developed using OpenGL. It demonstrates good software design principles and follows an object-oriented approach. Below, is the overview of the core classes used in this project:
 
 **Classes Overview:**
 **Game Class**
